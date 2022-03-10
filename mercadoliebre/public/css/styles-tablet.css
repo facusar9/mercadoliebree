@@ -1,0 +1,18 @@
+@media (min-width: 480px) {
+  .navbar {
+    display: none;
+  }
+
+  .wrapper {
+    width: 50%;
+  }
+  .w-50 {
+    max-width: 200px;
+  }
+}
+.product-content .font-price {
+  font-size: 16px;
+}
+.product-content .font-discount {
+  font-size: 14px;
+}

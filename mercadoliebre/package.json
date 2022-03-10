@@ -1,0 +1,23 @@
+{
+  "name": "mercadoliebre",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/facusar9/mercadoliebre.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/facusar9/mercadoliebre/issues"
+  },
+  "homepage": "https://github.com/facusar9/mercadoliebre#readme",
+  "dependencies": {
+    "axios": "^0.26.0"
+  }
+}

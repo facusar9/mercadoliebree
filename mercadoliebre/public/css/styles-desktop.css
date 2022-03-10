@@ -1,0 +1,20 @@
+@media (min-width: 1024px) {
+  .main-header-top-bar,
+  .navbar {
+    max-width: 1200px;
+    margin: auto;
+  }
+  .copy-header {
+    max-width: none;
+    margin: 0;
+  }
+  .main-header-top-bar {
+    align-items: center;
+  }
+  .navbar {
+    font-size: 15px;
+  }
+  .wrapper {
+    width: 25%;
+  }
+}
